@@ -7,7 +7,7 @@ dias = ('domingo' , 'segunda', 'terca')
 # DICIONARIOS
 
 pessoa = {
-    'name': 'nicolas',
+    'name': 'nicolass',
     'age': '21',
     'adress': 'rua x',
     'number': '123'
