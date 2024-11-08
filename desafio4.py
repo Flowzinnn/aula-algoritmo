@@ -11,7 +11,6 @@ palavra_secreta = choice(lf)
 lista_secreta = ['_'] * len(palavra_secreta)
 letras_chutadas = []
 enforcou = acertou = False
-print(lista_secreta)
 nome = input('Digite seu nome: ')
 
 print(f'Bem vindo {nome}, eu sou o computador, tente advinhar o número que eu pensei!!!')
